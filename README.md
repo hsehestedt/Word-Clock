@@ -9,7 +9,9 @@ This project contains two components:
 See the appropriate section below (Full Featured Program or Screensaver) for usage instructions. Please also see the sections following both of those. 
 
 
- * Full Featured Program
+---------------------
+Full Featured Program
+---------------------
 
 By default, the program will open in full screen mode and will include a digital clock displayed on the last line of the screen. These, as well as other settings, can be altered by hotkeys as well as a file named WordClock.ini.
 
