@@ -56,6 +56,8 @@ HandleErrors:Y             -  Enables the error handling routies. Disable if you
 Screensaver
 -----------
 
+IMPORTANT: The screensaver is distributed as a .EXE so that you can test it outside of the context of a screensaver. To use it is a screensaver, first change the extension to .SCR.
+
 The screensaver operates in fullscreen mode only. It includes a digital clock displayed on the last line of the screen. This can be turned off by using hotkeys as well as a file named WordClockSCR.ini to turn it off by default.
 
 To use the screensaver, follow these steps:
